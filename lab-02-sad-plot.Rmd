@@ -52,7 +52,7 @@ staff_long <- staff %>%
 Our guess from exercise 1 was correct 
 
 ```{r staff-long-inspect}
-
+nrow(staff_long)
 ```
 
 
