@@ -79,7 +79,9 @@ staff_long %>%
 *Remove this text and add your answer here.*
 
 ```{r lineplot-2}
-# remove this comment and add your code here
+staff_long %>%
+  ggplot(aes(x = year, y = faculty, color = faculty_type, group = faculty_type)) +
+  geom_line()
 ```
 
 
