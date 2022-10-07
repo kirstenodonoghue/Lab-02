@@ -124,4 +124,3 @@ Current team member should knit, stage & commit, and push all changes to GitHub.
 
 All team members should pull to download all updates.
 
-
